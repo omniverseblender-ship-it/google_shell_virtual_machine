@@ -105,8 +105,8 @@ websockify --web /usr/share/novnc/ 6080 localhost:5901
 1. In Cloud Shell, click **Web Preview → Change port**
 2. Enter **6080**
 3. Click **Change and Preview**
-4. In NoVNC page → Click **Connect**
-5. Enter VNC password: **bel@123**
+4. In NoVNC page → Click **VNC.html**
+5. Enter VNC password: **Password**
 
 ---
 
