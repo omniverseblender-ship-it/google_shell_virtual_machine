@@ -1,4 +1,4 @@
-Here is your entire Google Cloud Shell Virtual Machine setup guide **cleanly reformatted in Markdown**, step-by-step, well-structured, and ready to use:
+
 
 ---
 
