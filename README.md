@@ -145,7 +145,7 @@ firefox-esr
 
 ---
 
-### ✅ **Your Google Cloud Shell GUI Desktop is Ready!**
+### **Your Google Cloud Shell GUI Desktop is Ready!**
 
 Use Firefox, terminal, full Linux environment inside Cloud Shell.
 
