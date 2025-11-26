@@ -2,7 +2,7 @@
 
 ---
 
-# 🚀 Google Cloud Shell Virtual Machine — Full Setup Guide
+# Google Cloud Shell Virtual Machine — Full Setup Guide
 
 ### (VNC + XFCE Desktop + NoVNC + Firefox)
 
@@ -26,6 +26,7 @@ Run:
 ```bash
 sudo apt install -y xfce4 xfce4-goodies tigervnc-standalone-server novnc websockify dbus-x11 software-properties-common
 ```
+Keyboard selection for English US 35, 35, 1
 
 ---
 
@@ -37,7 +38,7 @@ sudo apt install -y xfce4 xfce4-goodies tigervnc-standalone-server novnc websock
 vncserver
 ```
 
-2. Enter password: **bel@123**
+2. Enter password: **Password**
 
    * Max 8 characters
 3. Say **N** for view-only mode.
