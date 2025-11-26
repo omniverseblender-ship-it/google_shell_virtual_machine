@@ -148,9 +148,3 @@ firefox-esr
 
 Use Firefox, terminal, full Linux environment inside Cloud Shell.
 
-If you want, I can also prepare:
-✔ A downloadable PDF
-✔ A one-page cheat sheet
-✔ A script that automates everything
-
-Just tell me!
